@@ -1,2 +1,6 @@
 Hello Git !
+<<<<<<< HEAD
 this line is form main.
+=======
+This line is from conflict branch.
+>>>>>>> conflict-branch
